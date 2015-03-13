@@ -1,0 +1,1 @@
+The API aims to mine online information about people's exercising activity
